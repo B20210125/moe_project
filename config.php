@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost"; 
+$servername = "http://165.22.52.48/"; 
 $username = "root"; 
 $password = ""; 
 $database = "moe_project"; 
